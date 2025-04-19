@@ -1,0 +1,31 @@
+{
+  "actions": [
+    {
+      "id": "action6",
+      "type": "key",
+      "parameters": {},
+      "actions": [
+        {
+          "type": "keyDown",
+          "value": ""
+        },
+        {
+          "type": "keyDown",
+          "value": "a"
+        },
+        {
+          "type": "pause",
+          "duration": 10
+        },
+        {
+          "type": "keyUp",
+          "value": ""
+        },
+        {
+          "type": "keyUp",
+          "value": "a"
+        }
+      ]
+    }
+  ]
+}
