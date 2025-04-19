@@ -2,7 +2,7 @@
 
 This project automates end-to-end test scenarios for a Magento-based eCommerce website using WebdriverIO and Cucumber.
 
-## Note
+## Notes
 
 - It is preferred to run a specific feature at a time to avoid any unexpected behaviours.
 - Ensure a really good internet connectio.
